@@ -1,13 +1,13 @@
-package com.udos.Udos;
+package com.registros.Register;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UdosApplication {
+public class RegisterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UdosApplication.class, args);
+		SpringApplication.run(RegisterApplication.class, args);
 	}
 
 }

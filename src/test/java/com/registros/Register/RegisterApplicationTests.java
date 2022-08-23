@@ -1,10 +1,10 @@
-package com.udos.Udos;
+package com.registros.Register;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UdosApplicationTests {
+class RegisterApplicationTests {
 
 	@Test
 	void contextLoads() {
